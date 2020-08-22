@@ -1,3 +1,10 @@
+def first_challenge
+  epic_tragedy = {
+    :montague => {},
+    :capulet => {}
+  }
+end
+
 def second_challenge
    epic_tragedy = {
      :montague => {
@@ -13,11 +20,4 @@ def second_challenge
        :heroine_friends => []
      }
    }
-end
-
-def first_challenge
-  epic_tragedy = {
-    :montague => {},
-    :capulet => {}
-  }
 end
